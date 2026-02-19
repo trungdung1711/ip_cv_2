@@ -1,11 +1,11 @@
 # data and images
-data/
-*.png
-*.jpg
-*.jpeg
-*.tiff
-*.bmp
-images
+# data/
+# *.png
+# *.jpg
+# *.jpeg
+# *.tiff
+# *.bmp
+# images
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

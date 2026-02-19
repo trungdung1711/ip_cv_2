@@ -7,3 +7,7 @@
 
 
 ## 🏃 How to run the notebooks
+- To be updated later.
+
+## 🔗 References
+- [Basics of gradient-domain image](https://en.wikipedia.org/wiki/Gradient-domain_image_processing)
