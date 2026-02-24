@@ -1,0 +1,14 @@
+# Python environment and cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS hidden files (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
