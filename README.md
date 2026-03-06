@@ -12,3 +12,4 @@
 
 ## 🔗 References
 - [Basics of gradient-domain image](https://en.wikipedia.org/wiki/Gradient-domain_image_processing)
+- [Examples of image transformation](https://www.geeksforgeeks.org/python/image-transformations-using-opencv-in-python/)
